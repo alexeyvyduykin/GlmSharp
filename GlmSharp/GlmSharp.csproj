@@ -1,9 +1,14 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
+    <OutputType>Library</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <PackageId>GlmSharp_a_v</PackageId>
-    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>alexeyvyduykin</Authors>
+    <PackageId>GlmSharp</PackageId>
+    <Version>1.0.0</Version>   
+    <Company>alexeyvyduykin</Company>   
+    <Product>GlmSharp</Product> 
+    <RepositoryUrl>https://github.com/alexeyvyduykin/GlmSharp</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
